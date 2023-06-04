@@ -39,7 +39,7 @@ if (cliente == "Si") {
 }
 else {
 
-    alert ("Debe ser cliente del banco para acceder a un credito")
+    alert ("Debe ser cliente del banco para acceder a un credito");
 }
 
 
